@@ -1,6 +1,3 @@
-# E-visa-Web-Application-PHP-MySQL-
-A web application for online visa applications and processing, featuring modules for Admin, HR, and Employees. Enables secure application submission, status tracking, and streamlined visa management.
-
 E-Visa Processing System
 ------
 A comprehensive web application designed to simplify and digitize the visa application process. It provides secure online application submission, status tracking, and streamlined management for Admin, HR, and Employee roles.
