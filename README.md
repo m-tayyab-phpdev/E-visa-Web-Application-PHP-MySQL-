@@ -6,32 +6,32 @@ Features:
 
 For Applicants
 -----
-Submit visa applications online with required documents.
-Track application status in real time.
-Receive notifications and updates.
+Submit visa applications online with required documents.<br>
+Track application status in real time.<br>
+Receive notifications and updates.<br>
 
 For Admin
 -----
-Manage and review visa applications.
-Assign applications to HR staff for processing.
-Approve, reject, or request additional information.
+Manage and review visa applications.<br>
+Assign applications to HR staff for processing.<br>
+Approve, reject, or request additional information.<br>
 
 For HR
 -----
-Process assigned applications.
-Schedule and record interviews.
-Update application progress.
+Process assigned applications.<br>
+Schedule and record interviews.<br>
+Update application progress.<br>
 
 For Employees
 ------
-View assigned applications.
-Upload and manage relevant documents.
-Communicate with applicants if necessary.
+View assigned applications.<br>
+Upload and manage relevant documents.<br>
+Communicate with applicants if necessary.<br>
 
 Tech Stack
 -----
-Backend: Core PHP
-Frontend: HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX
-Database: MySQL
-Version Control: Git & GitHub
+Backend: Core PHP<br>
+Frontend: HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX<br>
+Database: MySQL<br>
+Version Control: Git & GitHub<br>
 Server: Apache (XAMPP/LAMP/WAMP)
